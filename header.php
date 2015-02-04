@@ -12,13 +12,16 @@
 <body>
 	<!--nav start-->
 		<nav class="navbar navbar-inverse navbar-fixed-top">
-		  <div class="container">
-		  	<div id="navbar" class="collapse navbar-collapse">
-		  		<ul class="nav navbar-nav">
-					<?php wp_nav_menu( array( 'theme_location' => 'header-menu' )); ?>
-				</ul>
-		  	</div>
-		  </div>
+			<div class="container">
+				<?php 
+					wp_nav_menu( array(
+						'theme_location' => 'nav_header',
+						'menu' => 'nav',
+						'menu_class' => 'nav navbar-nav',
+						'items_wrap' => '<ul id="%1$s" class="%2$s">%3$s</ul>',
+					)); 
+				?>
+			</div>
 		</nav>
 
 	<!--nav end-->
