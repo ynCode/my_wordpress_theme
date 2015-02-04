@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fou",
+				"focus	.focus()"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"pro",
+				"prop	.prop() - single"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"el",
+				"elementLength"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"set javc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"set javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set jasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Atlas/code/website/wordpress/wp-content/themes/mytheme/header.php",
+		"/Users/Atlas/code/website/wordpress/wp-content/themes/mytheme/style.css",
+		"/Users/Atlas/code/website/wordpress/wp-content/themes/mytheme/index.php",
+		"/Users/Atlas/code/website/wordpress/wp-content/themes/mytheme/sytle.",
+		"/Users/Atlas/code/website/wordpress/wp-content/themes/twentythirteen/header.php",
+		"/Users/Atlas/code/website/bgoo/bgoo_me_admin/config.php",
+		"/Users/Atlas/code/website/bgoo/config.php",
+		"/Users/Atlas/code/website/bgoo/.11111htaccess",
+		"/Users/Atlas/.bash_profile",
+		"/Users/Atlas/code/learn_jquery/mouse wheel/style.css",
+		"/Users/Atlas/code/learn_jquery/clock/clock.html",
+		"/Users/Atlas/code/learn_jquery/mouse wheel/mousewheel.js",
+		"/Users/Atlas/code/learn_jquery/jquery head first/first gig/first gig.html",
+		"/Users/Atlas/code/learn_jquery/Elastislide/js/modernizr.custom.17475.js",
+		"/Users/Atlas/code/learn_jquery/Elastislide/js/jquerypp.custom.js",
+		"/Users/Atlas/code/learn_jquery/Elastislide/js/jquery.elastislide.js",
+		"/Users/Atlas/code/learn_jquery/Elastislide/css/elastislide.css",
+		"/Users/Atlas/code/learn_jquery/Elastislide/css/demo.css",
+		"/Users/Atlas/code/learn_jquery/Elastislide/css/custom.css",
+		"/Users/Atlas/code/learn_jquery/Elastislide/ReadMe.txt",
+		"/Users/Atlas/code/learn_jquery/Elastislide/index4.html",
+		"/Users/Atlas/code/learn_jquery/Elastislide/index3.html",
+		"/Users/Atlas/code/learn_jquery/Elastislide/index2.html",
+		"/Users/Atlas/code/learn_jquery/Elastislide/index.html",
+		"/Users/Atlas/code/learn_jquery/clock/clock.js",
+		"/Users/Atlas/code/learn_jquery/.idea/scopes/scope_settings.xml",
+		"/Users/Atlas/code/learn_jquery/.idea/workspace.xml",
+		"/Users/Atlas/code/learn_jquery/.idea/vcs.xml",
+		"/Users/Atlas/code/learn_jquery/.idea/modules.xml",
+		"/Users/Atlas/code/learn_jquery/.idea/misc.xml",
+		"/Users/Atlas/code/learn_jquery/.idea/learn_jquery.iml",
+		"/Users/Atlas/code/learn_jquery/.idea/encodings.xml",
+		"/Users/Atlas/code/learn_jquery/.idea/.name",
+		"/Users/Atlas/code/learn_jquery/learn_jquery.sublime-project",
+		"/Users/Atlas/code/learn_jquery/.gitignore",
+		"/Users/Atlas/code/learn_jquery/mouse wheel/untitled.js",
+		"/Applications/MAMP/bin/phpPgAdmin/lang/italian.php",
+		"/Users/Atlas/code/learn_jquery/quicksearch/untitled.js",
+		"/Users/Atlas/code/learn_jquery/quicksearch/README.markdown",
+		"/Users/Atlas/code/learn_jquery/quicksearch/examples/index.html",
+		"/Users/Atlas/code/learn_jquery/quicksearch/examples/super_table.html",
+		"/Users/Atlas/code/learn_jquery/quicksearch/jquery.quicksearch.js",
+		"/Users/Atlas/code/website/wordpress/wp-config.php",
+		"/Users/Atlas/code/learn_jquery/quicksearch/examples/example.json",
+		"/Users/Atlas/code/learn_jquery/Tipue Search 4.0/demos/live/index.html",
+		"/Users/Atlas/code/learn_jquery/Tipue Search 4.0/demos/live/tipuesearch/tipuesearch_set.js",
+		"/Users/Atlas/code/learn_jquery/Tipue Search 4.0/index.html",
+		"/Users/Atlas/code/learn_jquery/Tipue Search 4.0/demos/static/tipuesearch/tipuesearch.js",
+		"/Users/Atlas/code/learn_jquery/Tipue Search 4.0/demos/static/tipuesearch/tipuesearch_set.js",
+		"/Library/Preferences/VMware Fusion/vmnet8/nat.conf",
+		"/Users/Atlas/code/learn_jquery/mouse wheel/mouse wheel.html",
+		"/Users/Atlas/code/learn_jquery/mouse wheel/jquery.mousewheel.min.js",
+		"/Users/Atlas/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/private/var/folders/v4/0g3dx6d56z91q2w5cbph5sdm0000gn/T/fz3temp-1/header.tpl",
+		"/Users/Atlas/code/website/shuyun/wp-config.php",
+		"/Applications/Warcraft III Folder/War3Patch.mpq",
+		"/Users/Atlas/code/.bash_profile.sh",
+		"/Users/Atlas/code/u/winsun_web/suggestion.html",
+		"/Users/Atlas/Documents/Code/u/winsun_web/suggestion.html",
+		"/Users/Atlas/Desktop/untitled.html",
+		"/Users/Atlas/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"quanxuan",
+			"git",
+			"search",
+			"span",
+			"sjon",
+			"json",
+			"onclick=\"addClassActive(this)\"",
+			"rgba",
+			"{\n    display: none;\n}",
+			"{\n",
+			"left",
+			"50px",
+			";\n",
+			"warp",
+			"elementLength",
+			"nav",
+			"act",
+			">\n",
+			"{\n",
+			"}\n",
+			"        $('",
+			"active",
+			"nav",
+			"AllowOverride",
+			"\"/",
+			"/applications/mamp/bin/mamp",
+			"css",
+			"phpmyadmin",
+			"mamp",
+			"apache",
+			"apche",
+			"apache",
+			"localhost",
+			"shu'yun",
+			"mamp",
+			"<Directory \"/Applications/MAMP/cgi-bin\">\n    AllowOverride None\n    Options None\n    Order allow,deny\n    Allow from all\n</Directory>",
+			"Directory",
+			"block",
+			"        \n",
+			"li",
+			"\n		"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 159.0
+	},
+	"project": "mytheme.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"mousecss",
+				"mouse wheel/style.css"
+			],
+			[
+				"mouse",
+				"mouse wheel/mousewheel.js"
+			],
+			[
+				"moush",
+				"mouse wheel/mouse wheel.html"
+			],
+			[
+				"mous",
+				"mouse wheel/mousewheel.js"
+			],
+			[
+				"html",
+				"winsun.html"
+			],
+			[
+				"winht",
+				"winsun.html"
+			],
+			[
+				"css",
+				"winsun.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/code/learn_jquery/learn_jquery.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
